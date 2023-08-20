@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgoit_react_hw_08_phonebook=self.webpackChunkgoit_react_hw_08_phonebook||[]).push([[266],{1266:function(t,e,n){n.r(e),n.d(e,{default:function(){return i}});var o=n(3329);function i(){return(0,o.jsx)("div",{children:(0,o.jsx)("h1",{style:{textAlign:"center",fontSize:"36px",marginTop:"30px",width:"350px",marginLeft:"auto",marginRight:"auto"},children:"Welcome to contact storage app!"})})}}}]);
+//# sourceMappingURL=266.75eb2fa4.chunk.js.map
